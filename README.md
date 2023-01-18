@@ -1,4 +1,5 @@
 # React-projects
 React-projects for learning
 
-for node modeules run  -- npm i 
+node modeules  -- npm i
+run the project -- npm start
